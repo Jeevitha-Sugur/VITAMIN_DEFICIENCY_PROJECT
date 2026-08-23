@@ -1,0 +1,9 @@
+fatigue,pale_skin,hair_loss,bone_pain,vision_problem,deficiency
+1,1,0,0,0,Iron
+0,0,1,1,0,Vitamin D
+1,0,1,0,0,Vitamin B
+0,0,0,0,1,Vitamin A
+1,1,1,0,0,Iron
+0,0,1,1,0,Vitamin D
+1,0,0,0,0,Vitamin B
+0,0,0,0,1,Vitamin A
